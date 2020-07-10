@@ -1,0 +1,39 @@
+body{
+	padding: 0;
+	margin:0;
+
+
+}
+header{
+	height: 50px;
+	background-color:  #214FE5;
+	width: 1000px;
+	position: absolute;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
+.knopki{
+	margin-right: 100px;
+	float:right;	
+}
+.knopki li{
+	list-style: none;
+	display: inline-block;
+	padding:1px;
+	border: 1px;
+	border-color:#000000;
+	margin-right: 50px; 
+}
+.knopki li a{
+	text-decoration: none;
+	
+}
+.general{
+	/*Делаем его в центре*/
+	margin:auto;
+	/*Ширина*/
+	width: 1000px;
+/*	/*Высота*/
+	height: 800px;
+	Узнаем границы сайта (не обязательно)
+	border:1px solid black;*/

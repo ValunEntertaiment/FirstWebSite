@@ -1,0 +1,228 @@
+.body{
+	font: 300 normal 100% 'Open Sans',sans-serif;
+	line-height: normal;
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+	max-width: 1200px;
+	display: block;  
+	font-family: Arial, sans-serif;
+}
+.page{ 
+	background-color: #f4f3f3;
+	margin: 0 auto;
+	padding: 0;
+	max-width: 1200px;
+	border-bottom-right-radius: 1rem;
+
+}
+.header__wrap{
+	margin: 0 auto;
+	max-width: 1020px;
+	max-width: 63.75rem;	
+	display: flex;
+	justify-content: space-around;
+}
+.logo{
+	background-repeat: no-repeat;
+	margin: 0 3.8235% 11px 0;
+	margin: 0 3.8235% .6875rem 0;
+	height: 53px;
+	height: 3.3125rem;
+	max-width: 140px;
+	max-width: 8.75rem;
+	width: 100%;	
+}
+.logo{
+	width: 60px;
+	margin: 0, auto;	
+}
+.menu1 {
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+.menu1 li {
+	float: left;
+	display: block;
+	margin-right: 60px;
+}
+.menu1 a {
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 14px;
+	margin-top: 100px;
+}
+.menu {
+	float: right;
+	margin-top: 22px;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: space-around; 
+}
+.poisk{
+	background-color: #fff;
+    border: none;
+    border-radius: 1rem;
+    color: #050608;
+    font-size: 14px;
+    font-size: .875rem;
+    padding: 0 12% 0% 5%;
+    height: 15px;
+    width: 100%;
+
+}
+.rubric-menu{
+	background-image: url(data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.or…1v10.8c0%20.8-.4%201.2-1.1%201.2-.7.1-1.1-.3-1.1-1.1z%22%2F%3E%3C%2Fsvg%3E);
+	width: 140px;
+	height: 53px;	
+}
+h1 {
+	font-family: "impact" sans-serif;
+}
+h2 {
+	display: block;
+    font-size: 1.5em;
+    -webkit-margin-before: 0.83em;
+    -webkit-margin-after: 0.83em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+nav{
+	color: #000;
+	margin: 0;
+    padding: 0;
+}
+li{
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.content__author_right{
+	font-size: 14px;
+	font-size: .875rem;
+	text-align: right;
+}
+.content__author{
+	border-bottom: 2px solid #ccc;
+	padding-bottom: 16px;
+	padding-bottom: 1rem;
+}
+.main{
+	padding-top: 21px;
+	font-size: 16px;
+	font-stretch: 100%;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+.conteiners{
+	clear: both;
+	overflow: hidden;
+	box-sizing: border-box;
+}
+.content{
+	margin: 23px 0 0 4.1667%;
+	max-width: 760px;
+	width: 63.3333%;
+	float: left;
+	font-size: 16px;
+	font-stretch: 100%;
+}
+.content__item{
+	display: block;
+}
+.content__article{
+	background-color: #fff;
+	margin-bottom: 24px;
+	padding: 18px 5.2632% 0;
+	border-radius: 10px;
+	box-sizing: border-box;
+}
+.content__title{
+	color: #f85338;
+	font-size: 30px;
+	font-size: 1.875rem;
+	font-weight: 300;
+	margin: 16px 0;
+	margin: 1rem 0;
+	padding: 0;
+}
+.content__ann{
+	font-size: 20px;
+	font-size: 1.25rem;
+	line-height: 26px;
+	line-height: 1.625rem;
+	margin-top: 34px;
+	margin-top: 2.125rem;
+}
+.sidebar{
+	float: right;
+	margin-top: 23px;
+	margin-top: 1.4375rem;
+	max-width: 350px;
+	width: 29.1667%;
+}
+.block{
+	margin-bottom: 24px;
+	margin-bottom: 1.5rem;
+	width: 85.7143%;
+	max-width: 300px;
+	max-width: 18.75rem;	
+	background: #fff;
+	border-radius: 9px;
+}
+.block{
+	background: #fff;
+	border-radius: 9px;	
+}
+.block__title{
+	color: #000;
+	font-size: 18px;
+	font-size: 1.125rem;
+	font-weight: 400;
+	padding: 16px 20px;
+	padding: 1rem 1.25rem;
+}
+.content__bookmark{
+	margin-left: 16px;
+	margin-left: 1rem;
+	position: relative;
+	top: 16px;
+	top: 1rem;
+	float: right
+}
+.content__contents{
+    font-size: 18px;
+    font-size: 1.125rem;
+    line-height: 24px;
+    line-height: 1.5rem;
+    margin-top: 34px;
+    margin-top: 2.125rem;	 
+}
+.content__contents a {
+	color: #050608;
+	border-bottom: 1px solid currentColor;
+	text-decoration: none;
+}
+.content__contents li {
+	padding-bottom: 12px;
+    padding-bottom: .75rem;
+}
+.title{
+	font-size: 25px;
+	color: #000;
+    font-size: 30px;
+    font-size: 1.875rem;
+    font-weight: 300;
+	color: #050608;
+}
+/*.chat{
+	border-width: 2px;
+	border-color: #000000;
+	border-style: ridge;
+	padding: 0px;
+}
+#cboxform{
+	padding: 0px;
+}*/

@@ -1,0 +1,36 @@
+.conteiner {
+  background-color: #dbdbdb;
+/*  border: 1px solid #000000; */
+  margin: 35px 15% 0px 15%;
+  padding: 30px;
+  border-radius: 20px;
+}
+.shlyapa{
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  padding: 10px 100px 10px 100px;
+  background-color: #f85338;
+  margin-top: -10px;
+  margin-left: 15%;
+  margin-right: 15%;
+  height: 90px;
+}
+.shrift-slyapa{
+  top: 4%;
+}
+.header {
+  padding: 10px 100px 10px 100px;
+  background-color: #silver;
+  margin-top: 0px;
+  margin-left: 20%;
+  margin-right: 20%;
+  height: 70px;
+}
+.poisk{
+margin-top: 0%;
+margin-right: 100%;
+margin-left: 100%;
+}
+h1 {
+  font-family: "impact" sans-serif;
+}
